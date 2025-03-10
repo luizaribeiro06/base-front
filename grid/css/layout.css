@@ -1,0 +1,6 @@
+.container {
+    margin: 1rem auto;
+    text-align: center;
+}
+
+.border { border: 1px solid #ccc; }
